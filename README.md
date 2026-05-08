@@ -2,19 +2,20 @@
 
 ### AI/ML & Data Engineering Enthusiast
 
-I'm an Electrical & Information Engineering graduate from Sri Lanka 🇱🇰 passionate about building intelligent systems using Artificial Intelligence, Machine Learning, and Data Engineering.
+I'm an Electrical & Information Engineering graduate from Sri Lanka 🇱🇰 with a strong interest in Artificial Intelligence, Machine Learning, and Data Engineering.
 
-I enjoy developing scalable solutions that combine software engineering, data-driven intelligence, and real-world problem solving.
+I enjoy building intelligent data-driven systems, exploring modern AI technologies, and solving real-world problems through analytics, automation, and scalable architectures.
 
 ---
 
 ## 🚀 About Me
 
-* 🤖 Interested in Artificial Intelligence & Machine Learning
-* 📊 Passionate about Data Engineering & Analytics
-* ⚡ Building intelligent applications using Python, SQL, and modern AI frameworks
-* 🌱 Continuously learning scalable system design, cloud technologies, and advanced machine learning
-* 💡 Passionate about turning complex data into meaningful insights
+* 🤖 Passionate about Artificial Intelligence & Machine Learning
+* 📊 Interested in Data Engineering, Analytics & Intelligent Data Systems
+* 🧠 Exploring LLMs, RAG Systems, NLP & AI-driven applications
+* ⚡ Building data-centric solutions using Python, SQL, and modern ML frameworks
+* 📡 Interested in Telecommunications, Network Technologies & Embedded Systems
+* 🌱 Continuously learning scalable AI architectures, cloud technologies, and advanced machine learning techniques
 
 ---
 
@@ -36,22 +37,23 @@ I enjoy developing scalable solutions that combine software engineering, data-dr
 * Hugging Face
 * NLP
 * RAG Systems
+* LLM Fine-Tuning
 
 ### 📊 Data Engineering
 
 * SQL Server
 * ETL Pipelines
 * Data Warehousing
+* Data Processing
 * Firebase
 * ChromaDB
 
-### 🌐 Development
+### 📡 Telecommunications & Embedded
 
-* Flutter
-* React
-* Node.js
-* Express.js
-* HTML / CSS
+* Network Traffic Analysis
+* Embedded System Development
+* IoT Data Processing
+* ESP32 Development
 
 ### ⚙️ Tools & Platforms
 
@@ -65,10 +67,11 @@ I enjoy developing scalable solutions that combine software engineering, data-dr
 
 ## 🔍 Current Focus
 
-* AI & Machine Learning
+* Artificial Intelligence & Machine Learning
 * Data Engineering & Analytics
-* LLM-based Applications
-* Scalable Data Solutions
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* Intelligent Data Systems
 * High Performance Computing (HPC)
 
 ---
@@ -84,15 +87,14 @@ I enjoy developing scalable solutions that combine software engineering, data-dr
 ## 🔗 Connect With Me
 
 * GitHub: https://github.com/TharukaHarshajith
-* LinkedIn: https://www.linkedin.com/in/tharuka-harshajith-bandara-188369227/
+* LinkedIn: https://linkedin.com/in/TharukaHarshajith
 
 ---
 
 ### 💡 Quote I Follow
 
-> “Build solutions that create impact, not just applications.”
+> “Build intelligent systems that turn data into meaningful impact.”
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me for collaborations and innovative projects.
-
+⭐ Feel free to explore my repositories and connect with me for collaborations, research, and innovative AI-driven projects.
