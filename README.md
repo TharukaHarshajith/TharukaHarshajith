@@ -84,7 +84,7 @@ I enjoy developing scalable solutions that combine software engineering, data-dr
 ## 🔗 Connect With Me
 
 * GitHub: https://github.com/TharukaHarshajith
-* LinkedIn: https://linkedin.com/in/TharukaHarshajith
+* LinkedIn: https://www.linkedin.com/in/tharuka-harshajith-bandara-188369227/
 
 ---
 
