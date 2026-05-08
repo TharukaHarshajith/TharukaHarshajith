@@ -87,7 +87,7 @@ I enjoy building intelligent data-driven systems, exploring modern AI technologi
 ## 🔗 Connect With Me
 
 * GitHub: https://github.com/TharukaHarshajith
-* LinkedIn: https://linkedin.com/in/TharukaHarshajith
+* LinkedIn: https://www.linkedin.com/in/tharuka-harshajith-bandara-188369227/
 
 ---
 
